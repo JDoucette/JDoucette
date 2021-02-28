@@ -10,7 +10,7 @@
 
 - “The world of achievement has always belonged to the optimist.” — J. Harold Wilkins
 
-“- Your time is limited, so don't waste it living someone else's life.” — Steve Jobs
+- “Your time is limited, so don't waste it living someone else's life.” — Steve Jobs
 
 ### Currently Working
 
