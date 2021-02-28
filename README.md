@@ -1,16 +1,19 @@
-### Hi there 👋
+### Quotes
 
-<!--
-**JDoucette/JDoucette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- “Your future depends on many things, but mostly on you.” — Frank Tyger
 
-Here are some ideas to get you started:
+- “We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.” — Frank Tibolt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- “Life isn't about waiting for the storm clouds to pass, it's about learning to dance in the rain.” — Unknown
+
+- “Look at a day when you are supremely satisfied at the end. It's not a day when you lounge around doing nothing; its when you had everything to do, and you've done it.” — Margaret Thatcher
+
+- “The world of achievement has always belonged to the optimist.” — J. Harold Wilkins
+
+“- Your time is limited, so don't waste it living someone else's life.” — Steve Jobs
+
+### Currently Working
+
+- Software Voxel Engine
+
+- Side Scrolling Shmup
