@@ -1,4 +1,10 @@
-### Quotes
+### Working On
+
+- Software Voxel Engine
+
+- Side Scrolling Shmup
+
+### Fav Quotes
 
 - “Your future depends on many things, but mostly on you.” — Frank Tyger
 
@@ -11,9 +17,3 @@
 - “The world of achievement has always belonged to the optimist.” — J. Harold Wilkins
 
 - “Your time is limited, so don't waste it living someone else's life.” — Steve Jobs
-
-### Currently Working
-
-- Software Voxel Engine
-
-- Side Scrolling Shmup
