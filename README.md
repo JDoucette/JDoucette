@@ -1,8 +1,9 @@
 ### Working On
 
-- Software Voxel Engine
-- Text mode RPG
-- Side Scrolling Shmup
+- Porting XNA Projects to MonoGame
+- Text mode 2D RPG
+- Software 3D Voxel Engine
+- 2D Side Scrolling Shmup
 
 ### Fav Quotes
 
