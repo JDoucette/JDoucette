@@ -1,6 +1,6 @@
 ### Working On
 
-- Porting XNA Projects to MonoGame
+- Porting XNA projects to MonoGame
 - Text mode 2D RPG
 - Software 3D Voxel Engine
 - 2D Side Scrolling Shmup
