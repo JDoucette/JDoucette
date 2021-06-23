@@ -1,7 +1,8 @@
 ### Working On
 
+- first Unity project (puzzle game)
 - Porting XNA projects to MonoGame
-- Text mode 2D RPG
+- Text-mode 2D RPG
 - Software 3D Voxel Engine
 - 2D Side Scrolling Shmup
 
