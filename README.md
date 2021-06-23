@@ -1,6 +1,6 @@
 ### Working On
 
-- first Unity project (puzzle game)
+- Puzzle Game (First Unity project)
 - Porting XNA projects to MonoGame
 - Text-mode 2D RPG
 - Software 3D Voxel Engine
