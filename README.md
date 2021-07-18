@@ -2,9 +2,7 @@
 
 - Pseudo 3D Road (Full-Tilt) Engine
 - Polyomino Drop Puzzle Game (1st Unity project)
-- Porting XNA to MonoGame
--- Project X
--- Decimation X
+- Porting XNA project to MonoGame (Project X, Decimation X)
 - Text Mode RPG Engine
 - Software Voxel Engine
 - 2D Side Scrolling Shmup Engine
