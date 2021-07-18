@@ -1,4 +1,4 @@
-### Working On
+### Projects
 
 - Pseudo 3D Road (Full-Tilt) Engine
 - Polyomino Drop Puzzle Game (1st Unity project)
@@ -7,7 +7,7 @@
 - Software Voxel Engine
 - 2D Side Scrolling Shmup Engine
 
-### Fav Quotes
+### Quotes
 
 - “Your future depends on many things, but mostly on you.” — Frank Tyger
 - “We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.” — Frank Tibolt
