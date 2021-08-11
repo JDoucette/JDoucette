@@ -6,7 +6,7 @@
 - #4. Porting XNA project to MonoGame: Project X Game Jam
 - #3. Text Mode RPG Engine
 - #2. Software Voxel Engine
-- #1. [2D Side Scrolling Shmup Engine|https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q]
+- #1. [2D Side Scrolling Shmup Engine](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
 
 ### Quotes
 
