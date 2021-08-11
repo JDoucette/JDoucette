@@ -1,7 +1,7 @@
 ### Projects
 
 - #7. Pseudo 3D Road (Full-Tilt) Engine
-- #6. Polyomino Drop Puzzle Game (1st Unity project)
+- #6. [Polyomino Drop Puzzle Game (1st Unity project)](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
 - #5. Porting XNA project to MonoGame: Decimation X post-release
 - #4. Porting XNA project to MonoGame: Project X Game Jam
 - #3. Text Mode RPG Engine
