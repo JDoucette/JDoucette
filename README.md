@@ -1,12 +1,12 @@
 ### Projects
 
-- #7. [Pseudo 3D Road (Full-Tilt) Engine](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
-- #6. [Polyomino Drop Puzzle Game (1st Unity project)](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
+- #7. Pseudo 3D Road (Full-Tilt) Engine [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
+- #6. Polyomino Drop Puzzle Game (1st Unity project) [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
 - #5. Porting XNA project to MonoGame: Decimation X post-release
 - #4. Porting XNA project to MonoGame: Project X Game Jam
 - #3. Text Mode RPG Engine
-- #2. [Software Voxel Engine](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
-- #1. [2D Side Scrolling Shmup Engine](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
+- #2. Software Voxel Engine [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
+- #1. 2D Side Scrolling Shmup Engine [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
 
 ### Quotes
 
