@@ -16,3 +16,5 @@
 - “Look at a day when you are supremely satisfied at the end. It's not a day when you lounge around doing nothing; its when you had everything to do, and you've done it.” — Margaret Thatcher
 - “The world of achievement has always belonged to the optimist.” — J. Harold Wilkins
 - “Your time is limited, so don't waste it living someone else's life.” — Steve Jobs
+- “Every lie we tell incurs a debt to the truth. Sooner or later that debt is paid.” — Valery Legasov
+-   
