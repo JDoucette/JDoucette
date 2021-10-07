@@ -17,4 +17,3 @@
 - “The world of achievement has always belonged to the optimist.” — J. Harold Wilkins
 - “Your time is limited, so don't waste it living someone else's life.” — Steve Jobs
 - “Every lie we tell incurs a debt to the truth. Sooner or later that debt is paid.” — Valery Legasov
--   
