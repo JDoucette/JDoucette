@@ -10,11 +10,11 @@
 
 ### Quotes
 
-- “Your future depends on many things, but mostly on you.” — Frank Tyger
 - “We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.” — Frank Tibolt
 - “Life isn't about waiting for the storm clouds to pass, it's about learning to dance in the rain.” — Unknown
+- “If you really want to learn and get better at anything, have any chance of becoming an expert, you have to be willing to be uncomfortable. Because thinking takes effort. It involves fighting through confusion.” — Derek Muller, Veritasium
 - “Look at a day when you are supremely satisfied at the end. It's not a day when you lounge around doing nothing; its when you had everything to do, and you've done it.” — Margaret Thatcher
 - “The world of achievement has always belonged to the optimist.” — J. Harold Wilkins
 - “Your time is limited, so don't waste it living someone else's life.” — Steve Jobs
 - “Every lie we tell incurs a debt to the truth. Sooner or later that debt is paid.” — Valery Legasov
-- “If you really want to learn and get better at anything, have any chance of becoming an expert, you have to be willing to be uncomfortable. Because thinking takes effort. It involves fighting through confusion.” — Derek Muller, Veritasium
+- “Your future depends on many things, but mostly on you.” — Frank Tyger
