@@ -1,13 +1,13 @@
 ### Projects
 
-  1. **Engine**: 2D Shmup / Side-Scroll (aka [The First Pixel](http://thefirstpixel.com/)) [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
-  2. **Engine**: Software Voxel [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
+  1. **Engine**: 2D Shmup / Side-Scroll: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
+  2. **Engine**: Software Voxel: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
   3. **Engine**: RPG / Text-Mode
   4. **Port**: XNA -> MonoGame: Project-X (Halifax Game Jam)
   5. **Port**: XNA -> MonoGame: [Decimation X](http://xona.com/games/decimationx/) (post-release version)
-  6. **Unity**: Polyomino/Tetromino Game [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
-  7. **Engine**: Pseudo-3D Road / Full-Tilt [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
-  8. **Retro**: GW-BASIC / Tandy 1000 projects [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
+  6. **Unity**: Polyomino/Tetromino Game: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
+  7. **Engine**: Pseudo-3D Road / Full-Tilt: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
+  8. **Retro**: GW-BASIC / Tandy 1000 projects: [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
   9. **Engine**: 2D Tile-based / MonoGame Tutorial
  10. **Blog**: [The First Pixel](http://thefirstpixel.com/)
 
