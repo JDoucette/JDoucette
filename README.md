@@ -18,5 +18,5 @@
 - “If you really want to learn and get better at anything, have any chance of becoming an expert, you have to be willing to be uncomfortable. Because thinking takes effort. It involves fighting through confusion.” — Derek Muller, Veritasium
 - “Look at a day when you are supremely satisfied at the end. It's not a day when you lounge around doing nothing; its when you had everything to do, and you've done it.” — Margaret Thatcher
 - “The world of achievement has always belonged to the optimist.” — J. Harold Wilkins
-- “Your time is limited, so don't waste it living someone else's life.” — Steve Jobs
+- “Your time is limited, so don't waste it living someone else's life.” — [Steve Jobs](https://www.youtube.com/results?search_query=steve+jobs+commencement+speech)
 - “Your future depends on many things, but mostly on you.” — Frank Tyger
