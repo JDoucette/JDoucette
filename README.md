@@ -1,15 +1,15 @@
 ### Projects
 
-- #10. [The First Pixel](http://thefirstpixel.com/) blog
-- #9. MonoGame (XNA) Tutorial game
-- #8. Recording Tandy 1000 GW-BASIC projects [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
-- #7. Pseudo-3D Road (aka Full-Tilt) Engine [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
-- #6. Polyomino/Tetromino Game (1st Unity project) [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
-- #5. Port XNA -> MonoGame: [Decimation X](http://xona.com/games/decimationx/) (post-release version)
-- #4. Port XNA -> MonoGame: Project-X (Halifax Game Jam)
-- #3. Text Mode RPG Engine
-- #2. Software Voxel Engine [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
-- #1. 2D Side-Scroll Shmup Engine (aka [The First Pixel](http://thefirstpixel.com/)) [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
+- #10. Blog: [The First Pixel](http://thefirstpixel.com/)
+-  #9. Engine: 2D Tile-based / MonoGame Tutorial
+-  #8. Retro: GW-BASIC / Tandy 1000 projects [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
+-  #7. Engine: Pseudo-3D Road / Full-Tilt [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
+-  #6. Unity: Polyomino/Tetromino Game [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
+-  #5. Port: XNA -> MonoGame: [Decimation X](http://xona.com/games/decimationx/) (post-release version)
+-  #4. Port: XNA -> MonoGame: Project-X (Halifax Game Jam)
+-  #3. Engine: RPG / Text-Mode
+-  #2. Engine: Software Voxel [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
+-  #1. Engine: 2D Shmup / Side-Scroll (aka [The First Pixel](http://thefirstpixel.com/)) [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
 
 ### Quotes
 
