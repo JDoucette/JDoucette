@@ -16,7 +16,7 @@
   - Retro: GW-BASIC / Tandy 1000 projects: [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
   - Blog: [The First Pixel](http://thefirstpixel.com/)
 
-### Quotes
+### Inspiration
 
 - “We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.” — Frank Tibolt
 - “Life isn't about waiting for the storm clouds to pass, it's about learning to dance in the rain.” — Unknown
