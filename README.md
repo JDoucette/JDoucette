@@ -22,7 +22,7 @@
 - “We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.” — _Frank Tibolt_
 - “Life isn't about waiting for the storm clouds to pass, it's about learning to dance in the rain.” — _Unknown_
 - “If you really want to learn and get better at anything, have any chance of becoming an expert, you have to be willing to be uncomfortable. Because thinking takes effort. It involves fighting through confusion.” — [_Derek Muller, Veritasium, The Science of Thinking_](https://www.youtube.com/watch?v=UBVV8pch1dM&t=694s)
-- “Look at a day when you are supremely satisfied at the end. It's not a day when you lounge around doing nothing; its when you had everything to do, and you've done it.” — _Margaret Thatcher_
+- “Look at a day when you are supremely satisfied at the end. It's not a day when you lounge around doing nothing; its when you had everything to do, and you've done it.” — [_Margaret Thatcher_](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 - “The world of achievement has always belonged to the optimist.” — _J. Harold Wilkins_
 - “Your time is limited, so don't waste it living someone else's life.” — [_Steve Jobs_](https://www.youtube.com/results?search_query=steve+jobs+commencement+speech)
 - “Your future depends on many things, but mostly on you.” — _Frank Tyger_
