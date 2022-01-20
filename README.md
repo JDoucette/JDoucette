@@ -1,3 +1,5 @@
+___
+
 ### Projects
 
 - **Engines**:
@@ -20,9 +22,9 @@ ___
 
 ### Associations
 
-| ![The First Pixel](http://thefirstpixel.com/wp-content/uploads/2020/12/the_first_pixel_logo_64x64_black.png "The First Pixel") | The First Pixel |
+| ![The First Pixel](http://thefirstpixel.com/wp-content/uploads/2020/12/the_first_pixel_logo_64x64_black.png "The First Pixel") | [The First Pixel](http://thefirstpixel.com/) |
 | --- | --- |
-| ![Xona Games](http://thefirstpixel.com/wp-content/uploads/2022/01/xona_logo-64x64-1.png "Xona Games") | Xona Games | 
+| ![Xona Games](http://thefirstpixel.com/wp-content/uploads/2022/01/xona_logo-64x64-1.png "Xona Games") | [Xona Games](http://xona.com/) | 
 
 ___
 
@@ -36,5 +38,3 @@ ___
 - “The world of achievement has always belonged to the optimist.” — _J. Harold Wilkins_
 - “Your time is limited, so don't waste it living someone else's life.” — [_Steve Jobs_](https://www.youtube.com/results?search_query=steve+jobs+commencement+speech)
 - “Your future depends on many things, but mostly on you.” — _Frank Tyger_
-
-___
