@@ -37,4 +37,4 @@ ___
 - “Look at a day when you are supremely satisfied at the end. It's not a day when you lounge around doing nothing; its when you had everything to do, and you've done it.” — [_Margaret Thatcher_](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 - “The world of achievement has always belonged to the optimist.” — _J. Harold Wilkins_
 - “Your time is limited, so don't waste it living someone else's life.” — [_Steve Jobs_](https://www.youtube.com/results?search_query=steve+jobs+commencement+speech)
-- “Your future depends on many things, but mostly on you.” — _Frank Tyger_
+- “Your future depends on many things, but mostly on you.” — [_Frank Tyger_](https://www.franktyger.info/frank-tyger-in-his-own-words.htm)
