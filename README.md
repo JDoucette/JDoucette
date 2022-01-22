@@ -1,34 +1,34 @@
 ___
-
 ### Projects
+___
 
-- **Engines**:
+### Engines
   - 2D Side Scroller / Shmup: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
   - Voxel (Software): [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
   - RPG (Text-Mode)
   - Pseudo-3D Road (aka Full-Tilt): [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
   - 2D Tile / Shmup / MonoGame Tutorial
 
-- **Ports** (XNA -> MonoGame):
+### Ports
   - Project-X Prototype ([Halifax Game Jam 2011](http://xona.com/2011/06/27.html))
   - [Decimation X](http://xona.com/games/decimationx/) (post-release version)
 
-- **Misc**:
+### Misc
   - **Blog**: [The First Pixel](http://thefirstpixel.com/)
   - **Retro**: GW-BASIC / Tandy 1000 projects: [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
   - **Unity**: Polyomino/Tetromino Game: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
 
 ___
-
 ### Associations
+___
 
 | ![The First Pixel](http://thefirstpixel.com/wp-content/uploads/2020/12/the_first_pixel_logo_64x64_black.png "The First Pixel") | [The First Pixel](http://thefirstpixel.com/) |
 | --- | --- |
 | ![Xona Games](http://thefirstpixel.com/wp-content/uploads/2022/01/xona_logo-64x64-1.png "Xona Games") | [Xona Games](http://xona.com/) | 
 
 ___
-
 ### Inspiration
+___
 
 - “You guys know that if you do the work, you work hard enough, dreams come true. You know that, we all know that. But hopefully what you get from tonight is that those times when you get up early and you work hard; those times when you stay up late and you work hard; those times when don’t feel like working — you’re too tired, you don’t want to push yourself — but you do it anyway. That is actually the dream. That’s the dream.” — [_Kobe Byrant_](https://www.youtube.com/watch?v=k2Qpl1Q3OkA&t=4m50s)
 - “We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.” — _Frank Tibolt_
