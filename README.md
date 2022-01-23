@@ -42,6 +42,7 @@ ___
 - “The world of achievement has always belonged to the optimist.” — _J. Harold Wilkins_
 - “Your time is limited, so don't waste it living someone else's life.” — [_Steve Jobs_](https://www.youtube.com/results?search_query=steve+jobs+commencement+speech)
 - “Life isn't about waiting for the storm clouds to pass, it's about learning to dance in the rain.” — _Unknown_
+- “Have a healthy disregard for the impossible.” — LeaderShape
 
 ___
 ## Who I'd Like To Meet
