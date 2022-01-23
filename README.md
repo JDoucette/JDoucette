@@ -3,20 +3,20 @@ ___
 ## Current Projects
 
 ### Engines
-  - 2D Side Scroller / Shmup: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
+  - 2D Parallax Shmup: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
   - Voxel (Software): [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
-  - RPG (Text-Mode)
-  - Pseudo-3D Road (aka Full-Tilt): [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
-  - 2D Tile / Shmup / MonoGame Tutorial
+  - RPG Text-Mode
+  - Road Pseudo-3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
+  - 2D Tiled Arena Shmup (MonoGame Tutorial)
 
 ### Ports
-  - Project-X Prototype ([Halifax Game Jam 2011](http://xona.com/2011/06/27.html))
-  - [Decimation X](http://xona.com/games/decimationx/) (post-release version)
+  - Project-X (prototype) ([Halifax Game Jam 2011](http://xona.com/2011/06/27.html))
+  - Decimation X (post-release version): [Xona Games: Decimation X](http://xona.com/games/decimationx/)
 
 ### Misc
-  - **Blog**: [The First Pixel](http://thefirstpixel.com/)
-  - **Retro**: GW-BASIC / Tandy 1000 projects: [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
-  - **Unity**: Polyomino/Tetromino Game: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
+  - Blog: [The First Pixel](http://thefirstpixel.com/)
+  - Retro Coding: GW-BASIC / Tandy 1000: [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
+  - Unity: Polyomino/Tetromino: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
 
 ___
 ## Associations
