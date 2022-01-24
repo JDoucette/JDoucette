@@ -6,7 +6,7 @@ ___
   - Voxel (Software): [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
   - RPG Text-Mode
   - Road Pseudo-3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
-  - 2D Tiled Arena Shmup (MonoGame Tutorial)
+  - 2D Tiled Arena Shmup (MonoGame Tutorial): [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0adw__Y9B2eXA0LL35TyORU)
 
 ### Ports
   - Project-X (prototype) ([Halifax Game Jam 2011](http://xona.com/2011/06/27.html))
