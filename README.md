@@ -46,7 +46,7 @@ ___
 - “Your time is limited, so don't waste it living someone else's life.” — [_Steve Jobs_](https://www.youtube.com/results?search_query=steve+jobs+commencement+speech)
 - “Life isn't about waiting for the storm clouds to pass, it's about learning to dance in the rain.” — _Unknown_
 - “Have a healthy disregard for the impossible.” — [_LeaderShape_](http://www.leadershape.org/institute)
-- “The greater the artist, the greater the doubt. Perfect confidence is granted to the less talented as a consolation prize.” — Robert Hughes
+- “The greater the artist, the greater the doubt. Perfect confidence is granted to the less talented as a consolation prize.” — [_Robert Hughes_](http://content.time.com/time/subscriber/article/0,33009,984678,00.html)
 - “Everything around you that you call life was made up by people that were no smarter than you. And you can change it. You can influence it. You can build your own things that other people can use. Once you learn that, you'll never be the same again.” — [_Steve Jobs_](https://en.wikipedia.org/wiki/Steve_Jobs)
 - “Stay hungry. Stay foolish.” — [_Whole Earth Catalog_](https://en.wikipedia.org/wiki/Whole_Earth_Catalog)
 
