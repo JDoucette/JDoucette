@@ -9,7 +9,7 @@ ___
   - 2D Tiled Arena Shmup (MonoGame Tutorial): [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0adw__Y9B2eXA0LL35TyORU)
 
 ### Ports
-  - Project-X (prototype) ([Halifax Game Jam 2011](http://xona.com/2011/06/27.html))
+  - Project-X (prototype) ([Xona Games: Halifax Game Jam 2011](http://xona.com/2011/06/27.html))
   - Decimation X (post-release version): [Xona Games: Decimation X](http://xona.com/games/decimationx/)
 
 ### Misc
