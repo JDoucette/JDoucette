@@ -48,6 +48,7 @@ ___
 - “The greater the artist, the greater the doubt. Perfect confidence is granted to the less talented as a consolation prize.” — [_Robert Hughes_](http://content.time.com/time/subscriber/article/0,33009,984678,00.html)
 - “Everything around you that you call life was made up by people that were no smarter than you. And you can change it. You can influence it. You can build your own things that other people can use. Once you learn that, you'll never be the same again.” — [_Steve Jobs_](https://en.wikipedia.org/wiki/Steve_Jobs)
 - “Stay hungry. Stay foolish.” — [_Whole Earth Catalog_](https://en.wikipedia.org/wiki/Whole_Earth_Catalog)
+- “Be comfortable being uncomfortable.” - [_my summary of many smoart quotes_](https://www.google.com/search?q=be+comfortable+being+uncomfortable)
 
 ___
 ## Who I'd Like To Meet
