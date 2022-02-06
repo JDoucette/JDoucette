@@ -10,8 +10,8 @@ ___
   - RPG Text-Mode: _YouTube soon..._
 
 ### Ports
-  - Project-X (prototype) ([Xona Games: Halifax Game Jam 2011](http://xona.com/2011/06/27.html))
-  - Decimation X (post-release): [Xona Games: Decimation X](http://xona.com/games/decimationx/)
+  - Project-X ([prototype](http://xona.com/2011/06/27.html)): _YouTube soon..._
+  - Decimation X ([post-release](http://xona.com/games/decimationx/)): _cease expectes; to focus on Decimation X3..._
 
 ### Misc
   - Blog: [The First Pixel](http://thefirstpixel.com/)
