@@ -11,7 +11,7 @@ ___
 
 ### Ports
   - Project-X (prototype) ([Xona Games: Halifax Game Jam 2011](http://xona.com/2011/06/27.html))
-  - Decimation X (post-release version): [Xona Games: Decimation X](http://xona.com/games/decimationx/)
+  - Decimation X (post-release): [Xona Games: Decimation X](http://xona.com/games/decimationx/)
 
 ### Misc
   - Blog: [The First Pixel](http://thefirstpixel.com/)
