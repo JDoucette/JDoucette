@@ -16,7 +16,7 @@ ___
 
 ### Misc
   - Blog: [The First Pixel](http://thefirstpixel.com/)
-  - Retro Coding: GW-BASIC / Tandy 1000: [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
+  - Retro: GW-BASIC / Tandy 1000: [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
   - Unity: Polyomino/Tetromino: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
 
 ___
