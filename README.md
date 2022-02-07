@@ -12,7 +12,7 @@ ___
 
 ### Ports
   - Project-X ([prototype](http://xona.com/2011/06/27.html)): _YouTube soon..._
-  - Decimation X ([post-release](http://xona.com/games/decimationx/)): _cease expectes; to focus on Decimation X3..._
+  - Decimation X ([post-release](http://xona.com/games/decimationx/)): _expected to cancel for focus on Decimation X3..._
 
 ### Misc
   - Blog: [The First Pixel](http://thefirstpixel.com/)
