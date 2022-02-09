@@ -2,13 +2,13 @@ ___
 ## Current Projects
 
 ### Engines
-  - Graphing Software: _YouTube soon..._
-  - Ray Casting 3D: [YouTube](https://www.youtube.com/watch?v=zjswXUTMP2o&list=PLjnbT4UISq0YcFtRFjFQqK0g6ONNCtrvY)
-  - Voxel (Software): [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
-  - Road 3D (Pseudo): [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
-  - 2D Parallax Shmup: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
-  - 2D Arena Shooter: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0adw__Y9B2eXA0LL35TyORU)
-  - RPG Text-Mode: _YouTube soon..._
+  - Graph-All Calculator 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0YLgynFSpLzml4BMC6TDZL2)
+  - Ray Casting 3D: [YouTube](https://www.youtube.com/playlust?list=PLjnbT4UISq0YcFtRFjFQqK0g6ONNCtrvY)
+  - Voxel Software 3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
+  - Road Pseudo-3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
+  - Parallax Shmup 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
+  - Arena Shooter 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0adw__Y9B2eXA0LL35TyORU)
+  - RPG Text-Mode 2D: _YouTube soon..._
 
 ### Ports
   - Project-X ([prototype](http://xona.com/2011/06/27.html)): _YouTube soon..._
