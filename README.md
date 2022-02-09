@@ -3,7 +3,7 @@ ___
 
 ### Engines
   - Graph-All Calculator 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0YLgynFSpLzml4BMC6TDZL2)
-  - Ray Casting 3D: [YouTube](https://www.youtube.com/playlust?list=PLjnbT4UISq0YcFtRFjFQqK0g6ONNCtrvY)
+  - Ray Casting 3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0YcFtRFjFQqK0g6ONNCtrvY)
   - Voxel Software 3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
   - Road Pseudo-3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
   - Parallax Shmup 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
