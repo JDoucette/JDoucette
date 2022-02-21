@@ -19,7 +19,7 @@ ___
   - Blog: [The First Pixel](http://thefirstpixel.com/)
   - Retro: GW-BASIC / Tandy 1000: [Youtube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB)
   - Unity: Polyomino/Tetromino: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD)
-  - Anti-Aliasing Methods: [ShaderToy](https://www.shadertoy.com/view/4dGXW1) [GitHub](https://github.com/Michaelangel007/Anti-Aliasing-Compare)
+  - Anti-Aliasing Methods: [ShaderToy](https://www.shadertoy.com/view/4dGXW1), [GitHub](https://github.com/Michaelangel007/Anti-Aliasing-Compare)
 
 ___
 ## Associations
