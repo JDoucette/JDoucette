@@ -8,8 +8,9 @@ ___
   - Road Pseudo-3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
   - Parallax Shmup 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
   - Arena Shooter 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0adw__Y9B2eXA0LL35TyORU)
-  - Parsing Calculator: _YouTube soon..._
+  - Platformer 2D: _YouTube soon..._
   - RPG Text-Mode 2D: _YouTube soon..._
+  - Parsing Calculator: _YouTube soon..._
 
 ### Ports
   - Project-X ([prototype](http://xona.com/2011/06/27.html)): _YouTube soon..._
