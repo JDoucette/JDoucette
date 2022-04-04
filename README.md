@@ -13,7 +13,6 @@ ___
   - Parsing Calculator: _YouTube soon..._
 
 ### Ports
-  - Project-X ([prototype](http://xona.com/2011/06/27.html)): _YouTube soon..._
   - Decimation X ([post-release](http://xona.com/games/decimationx/)): _shelved to focus on Decimation X3..._
 
 ### Misc
