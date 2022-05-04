@@ -12,6 +12,9 @@ ___
   - RPG Text-Mode 2D: _YouTube soon..._
   - Parsing Calculator: _YouTube soon..._
 
+### Tools
+  - Wave Function Collapse Procedural Generation: _YouTube soon..._
+ 
 ### Ports
   - Decimation X ([post-release](http://xona.com/games/decimationx/)): _shelved to focus on Decimation X3..._
 
