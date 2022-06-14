@@ -13,7 +13,7 @@ ___
   - Parsing Calculator: _YouTube soon..._
 
 ### Tools
-  - Wave Function Collapse Procedural Generation: _YouTube soon..._
+  - Wave Function Collapse Procedural Generation: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y8vYnrSauHkBKgOBHXFFdf)
  
 ### Ports
   - Decimation X ([post-release](http://xona.com/games/decimationx/)): _shelved to focus on Decimation X3..._
