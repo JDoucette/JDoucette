@@ -13,7 +13,9 @@ ___
   - Parsing Calculator: _YouTube soon..._
 
 ### Tools
-  - Wave Function Collapse (Procedural Generation: Textures / Levels): [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y8vYnrSauHkBKgOBHXFFdf)
+  - Wave Function Collapse (Procedural Generation: Textures / Levels):
+
+<a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0Y8vYnrSauHkBKgOBHXFFdf"><img src="https://img.youtube.com/vi/0fO9LicI6ao/0.jpg" width="240" height="180" /></a>
  
 ### Ports
   - Decimation X ([post-release](http://xona.com/games/decimationx/)): _shelved to focus on Decimation X3..._
