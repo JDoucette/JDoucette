@@ -7,16 +7,11 @@ ___
 |Ray Casting 3D<br><a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0YcFtRFjFQqK0g6ONNCtrvY"><img src="https://img.youtube.com/vi/_lYaYKBrE5s/0.jpg" width="240" height="180" /></a>|Road Pseudo 3D<br><a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV"><img src="https://img.youtube.com/vi/rA4g4VX7ys8/0.jpg" width="240" height="180" /></a>|
 |Parallax Shmup 2D<br><a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q"><img src="https://img.youtube.com/vi/l9bIYkZepPo/0.jpg" width="240" height="180" /></a>|Platformer 2D<br><a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0bOcfu6Tl7kVQpBShxDA_rg"><img src="https://img.youtube.com/vi/mUMgT5Nu-_8/0.jpg" width="240" height="180" /></a>|
 
-  - : [YouTube](https://www.youtube.com/playlist?list=)
-  - : [YouTube](https://www.youtube.com/playlist?list=)
-
-
 ### Engines
   - Graph-All Calculator 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0YLgynFSpLzml4BMC6TDZL2)
   - Arena Shooter 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0adw__Y9B2eXA0LL35TyORU)
   - RPG Text-Mode 2D: _YouTube soon..._
   - Parsing Calculator: _YouTube soon..._
-
  
 ### Ports
   - Decimation X ([post-release](http://xona.com/games/decimationx/)): _shelved to focus on Decimation X3..._
