@@ -1,14 +1,14 @@
 ___
 ## Current Projects
 
-|<a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0Y8vYnrSauHkBKgOBHXFFdf"><img src="https://img.youtube.com/vi/0fO9LicI6ao/0.jpg" width="240" height="180" /></a>|**Wave Function Collapse**<br><br>*Procedural Generation*<br>*Textures, Levels*|
+|<a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0Y8vYnrSauHkBKgOBHXFFdf"><img src="https://img.youtube.com/vi/0fO9LicI6ao/0.jpg" width="240" height="180" /></a>|**Wave Function Collapse**
 |---|---|
+|<a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY"><img src="https://img.youtube.com/vi/uadGU-stF-w/0.jpg" width="240" height="180" /></a>|**Voxel Software Engine**|
 |   |   |
 |   |   |
 
 ### Engines
   - Platformer 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bOcfu6Tl7kVQpBShxDA_rg)
-  - Voxel Software 3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
   - Ray Casting 3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0YcFtRFjFQqK0g6ONNCtrvY)
   - Road Pseudo-3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bnfd1RC3M4PgTgkmhlkikV)
   - Parallax Shmup 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0Y_7IAN_zUzxgZnfhXxo_0Q)
