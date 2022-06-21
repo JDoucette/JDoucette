@@ -1,6 +1,11 @@
 ___
 ## Current Projects
 
+|<a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0Y8vYnrSauHkBKgOBHXFFdf"><img src="https://img.youtube.com/vi/0fO9LicI6ao/0.jpg" width="240" height="180" /></a>|**Wave Function Collapse**<br><br>*Procedural Generation*<br>*Textures, Levels*|
+|---|---|
+|   |   |
+|   |   |
+
 ### Engines
   - Platformer 2D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bOcfu6Tl7kVQpBShxDA_rg)
   - Voxel Software 3D: [YouTube](https://www.youtube.com/playlist?list=PLjnbT4UISq0bQF1g85tE9jTrKfEtdRYlY)
@@ -12,10 +17,6 @@ ___
   - RPG Text-Mode 2D: _YouTube soon..._
   - Parsing Calculator: _YouTube soon..._
 
-### Tools
-  - Wave Function Collapse (Procedural Generation: Textures / Levels):
-
-<a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0Y8vYnrSauHkBKgOBHXFFdf"><img src="https://img.youtube.com/vi/0fO9LicI6ao/0.jpg" width="240" height="180" /></a>
  
 ### Ports
   - Decimation X ([post-release](http://xona.com/games/decimationx/)): _shelved to focus on Decimation X3..._
