@@ -8,12 +8,13 @@ ___
 |Graph-All Calculator 2D<br><a href="https://youtube.com/playlist?list=PLjnbT4UISq0YLgynFSpLzml4BMC6TDZL2"><img src="https://img.youtube.com/vi/0g5YZovK2SI/0.jpg" width="240" height="180" /></a>|Parsing Calculator<br><br>_YouTube soon..._<br><br><br><br><br><br>|RPG Text-Mode 2D<br><br>_YouTube soon..._<br><br><br><br><br><br>|
 |Arena Shooter 2D<br><a href="https://youtube.com/playlist?list=PLjnbT4UISq0adw__Y9B2eXA0LL35TyORU"><img src="https://img.youtube.com/vi/VKjiuq437t0/0.jpg" width="240" height="180" /></a>|GW-BASIC, Tandy 1000<br><a href="https://youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB"><img src="https://img.youtube.com/vi/vd1iuoE9RoY/0.jpg" width="240" height="180" /></a>|Unity: Polyomino/Tetromino<br><a href="https://youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD"><img src="https://img.youtube.com/vi/H6Ief4korsU/0.jpg" width="240" height="180" /></a>|
  
-### Ports
-  - Decimation X ([post-release](http://xona.com/games/decimationx/)): _shelved to focus on Decimation X3..._
-
-### Misc
-  - Blog: [The First Pixel](http://thefirstpixel.com/)
-  - Anti-Aliasing Methods: [ShaderToy](https://www.shadertoy.com/view/4dGXW1), [GitHub](https://github.com/Michaelangel007/Anti-Aliasing-Compare)
+### More
+  - C# MonoGame
+     - Decimation X ([post-release](http://xona.com/games/decimationx/)): _shelved to focus on Decimation X3..._
+  - Blog
+     - [The First Pixel](http://thefirstpixel.com/)
+  - Pixel Shader
+     - Anti-Aliasing Methods: [ShaderToy](https://www.shadertoy.com/view/4dGXW1), [GitHub](https://github.com/Michaelangel007/Anti-Aliasing-Compare)
 
 ___
 ## Associations
