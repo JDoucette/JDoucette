@@ -19,10 +19,12 @@ ___
 ___
 ## Associations
 
-| ![Xona Games](http://thefirstpixel.com/wp-content/uploads/2022/01/xona_logo-64x64-1.png "Xona Games") | [Xona Games](http://xona.com/) | 
-| --- | --- |
-| ![The First Pixel](http://thefirstpixel.com/wp-content/uploads/2020/12/the_first_pixel_logo_64x64_black.png "The First Pixel") | [The First Pixel](http://thefirstpixel.com/) |
-
+|     |
+| --- |
+| [Xona Games](http://xona.com/) <br> ![Xona Games](http://thefirstpixel.com/wp-content/uploads/2022/01/xona_logo-64x64-1.png "Xona Games") | 
+| [The First Pixel](http://thefirstpixel.com/) <br> ![The First Pixel](http://thefirstpixel.com/wp-content/uploads/2020/12/the_first_pixel_logo_64x64_black.png "The First Pixel") |
+| [Jason Doucette](http://jasondoucette.com/) |
+| [Matthew Doucette](http://matthewdoucette.com/) |
 ___
 ## Inspiration
 
