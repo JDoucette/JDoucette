@@ -10,10 +10,10 @@ ___
  
 ### More
   - C# MonoGame
-     - ([Decimation X3 - port to PC](http://xona.com/games/decimationx/)): _details coming soon..._
-     - ([Decimation X2 - port to PC](http://xona.com/games/decimationx/)): _details coming soon..._
+     - ([Decimation X3 - port to PC](http://xona.com/games/decimationx3/)): _details coming soon..._
+     - ([Decimation X2 - port to PC](http://xona.com/games/decimationx2/)): _details coming soon..._
      - ([Decimation X - port to PC](http://xona.com/games/decimationx/)): _details coming soon..._
-     - ([Decimation X - post-XBLIG release](http://xona.com/games/decimationx/)): _shelved to focus on Decimation X3, X2, and X..._
+     - ([Decimation X - post-XBLIG release](http://xona.com/games/decimationx/)): _shelved to focus on ([Decimation X3](http://xona.com/games/decimationx3/)), ([X2](http://xona.com/games/decimationx2/)), and ([X](http://xona.com/games/decimationx/))..._
   - Blog
      - [The First Pixel](http://thefirstpixel.com/)
   - Pixel Shader
