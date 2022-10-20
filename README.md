@@ -11,10 +11,10 @@ ___
 
 ### More
   - C# MonoGame
-     - [Decimation X3 - port to PC](http://xona.com/games/decimationx3/): _details coming soon..._
+     - [Decimation X3.5 (a.k.a. X4)](http://xona.com/games/decimationx3/): _possibly..._
      - [Decimation X2 - port to PC](http://xona.com/games/decimationx2/): _details coming soon..._
+     - [Decimation X1.5 (post-XBLIG release)](http://xona.com/games/decimationx/): _possibly..._
      - [Decimation X - port to PC](http://xona.com/games/decimationx/): _details coming soon..._
-     - [Decimation X - post-XBLIG release](http://xona.com/games/decimationx/): _shelved to focus on [Decimation X3](http://xona.com/games/decimationx3/), [X2](http://xona.com/games/decimationx2/), and [X](http://xona.com/games/decimationx/)..._
      - Random Walk 256
   - Blog
      - [The First Pixel](http://thefirstpixel.com/)
