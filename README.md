@@ -11,7 +11,7 @@ ___
 
 ### More
   - C# MonoGame, PC Ports
-     - [Decimation X3.5 (a.k.a. X4)](http://xona.com/games/decimationx3/): _possibly..._
+     - [Decimation X3.5 (a.k.a. X4)](http://xona.com/games/decimationx3.5/): _possibly..._
      - [Decimation X2](http://xona.com/games/decimationx2/): _details coming soon..._
      - [Decimation X1.5 (post-XBLIG release)](http://xona.com/games/decimationx/): _possibly..._
      - [Decimation X](http://xona.com/games/decimationx/): _details coming soon..._
