@@ -10,11 +10,13 @@ ___
 |Decimation X1<br><br>_YouTube soon..._<br><br><br><br><br><br><br>|Decimation X2<br><br>_YouTube soon..._<br><br><br><br><br><br><br>|Decimation X3<br><a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0bTCaOIICkP3D4Sp8ZPa7Gv"><img src="https://img.youtube.com/vi/HHqrGBW509c/0.jpg" width="240" height="180" /></a>||
 
 ### More
-  - C# MonoGame
+  - C# MonoGame, PC Ports
      - [Decimation X3.5 (a.k.a. X4)](http://xona.com/games/decimationx3/): _possibly..._
-     - [Decimation X2 - port to PC](http://xona.com/games/decimationx2/): _details coming soon..._
+     - [Decimation X2](http://xona.com/games/decimationx2/): _details coming soon..._
      - [Decimation X1.5 (post-XBLIG release)](http://xona.com/games/decimationx/): _possibly..._
-     - [Decimation X - port to PC](http://xona.com/games/decimationx/): _details coming soon..._
+     - [Decimation X](http://xona.com/games/decimationx/): _details coming soon..._
+     - [Duality ZF](http://xona.com/games/dualityzf/): _possibly..._ :) 
+  - C# Fun Projects
      - Random Walk 256
   - Blog
      - [The First Pixel](http://thefirstpixel.com/)
