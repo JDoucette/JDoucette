@@ -17,6 +17,11 @@ ___
      - [Duality ZF](http://xona.com/games/dualityzf/): _not yet started..._ 
   - C# Fun Projects
      - Random Walk 256
+     - Image Conversion
+     - Binary Reverse-Engineer Viewer
+  - TI-99/4A
+     - TI BASIC
+     - TI Extended BASIC
   - Blog
      - [The First Pixel](http://thefirstpixel.com/)
   - Pixel Shader
