@@ -8,15 +8,15 @@ ___
 |Graph-All Calculator 2D<br><a href="https://youtube.com/playlist?list=PLjnbT4UISq0YLgynFSpLzml4BMC6TDZL2"><img src="https://img.youtube.com/vi/0g5YZovK2SI/0.jpg" width="240" height="180" /></a>|Parsing Calculator<br><br>_YouTube soon..._<br><br><br><br><br><br><br>|RPG Text-Mode 2D<br><br>_YouTube soon..._<br><br><br><br><br><br><br>|
 |Arena Shooter 2D<br><a href="https://youtube.com/playlist?list=PLjnbT4UISq0adw__Y9B2eXA0LL35TyORU"><img src="https://img.youtube.com/vi/VKjiuq437t0/0.jpg" width="240" height="180" /></a>|GW-BASIC, Tandy 1000<br><a href="https://youtube.com/playlist?list=PLjnbT4UISq0bMjb81xFBIWOLhBKFCVkuB"><img src="https://img.youtube.com/vi/vd1iuoE9RoY/0.jpg" width="240" height="180" /></a>|Unity: Polyomino/Tetromino<br><a href="https://youtube.com/playlist?list=PLjnbT4UISq0aiCTUj4movS4tsn5QkuPSD"><img src="https://img.youtube.com/vi/H6Ief4korsU/0.jpg" width="240" height="180" /></a>|
 |Decimation X1<br><br>_YouTube soon..._<br><br><br><br><br><br><br>|Decimation X2<br><br>_YouTube soon..._<br><br><br><br><br><br><br>|Decimation X3<br><a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0bTCaOIICkP3D4Sp8ZPa7Gv"><img src="https://img.youtube.com/vi/HHqrGBW509c/0.jpg" width="240" height="180" /></a>||
-|???<br><br>_YouTube soon..._<br><br><br><br><br><br><br>|Duality ZF<br><br>_YouTube soon..._<br><br><br><br><br><br><br>|3D Polygon Engine<br><a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0YyjqBGG8Q34Kng5gqDmYrT"><img src="https://img.youtube.com/vi/hINpW6oSVKw/0.jpg" width="240" height="180" /></a>||
+|Xona Engine<br><br>_YouTube soon..._<br><br><br><br><br><br><br>|Duality ZF<br><br>_..._<br><br><br><br><br><br><br>|3D Polygon Engine<br><a href="https://www.youtube.com/playlist?list=PLjnbT4UISq0YyjqBGG8Q34Kng5gqDmYrT"><img src="https://img.youtube.com/vi/hINpW6oSVKw/0.jpg" width="240" height="180" /></a>||
 
 ### More
   - C# MonoGame, PC Ports
-     - [Decimation X3.5 (a.k.a. X4)](http://xona.com/games/decimationx3.5/): _possibly..._
-     - [Decimation X2](http://xona.com/games/decimationx2/): _details coming soon..._
-     - [Decimation X1.5 (post-XBLIG release)](http://xona.com/games/decimationx/): _possibly..._
-     - [Decimation X](http://xona.com/games/decimationx/): _details coming soon..._
-     - [Duality ZF](http://xona.com/games/dualityzf/): _possibly..._ :) 
+     - [Decimation X3.5 (a.k.a. X4)](http://xona.com/games/decimationx3.5/): _unlikely..._
+     - [Decimation X2](http://xona.com/games/decimationx2/): _PC port runs, but requires mobile controls..._
+     - [Decimation X1.5 (post-XBLIG release)](http://xona.com/games/decimationx/): _unlikely..._
+     - [Decimation X](http://xona.com/games/decimationx/): _not yet started..._
+     - [Duality ZF](http://xona.com/games/dualityzf/): _not yet started..._ 
   - C# Fun Projects
      - Random Walk 256
   - Blog
