@@ -19,10 +19,10 @@ ___
      - Random Walk 256 (GW-BASIC PRNG exploration)
      - Image Conversion
      - Binary Reverse-Engineer Viewer
-  - TI-99/4A
-     - TI BASIC
-       - SuperChase I and II
-     - TI Extended BASIC
+  - TI-99/4A (TI BASIC and TI Extended BASIC) 
+     - SuperChase I and II
+     - Moneybags
+     - Hobo Party
   - Blog
      - [The First Pixel](http://thefirstpixel.com/)
   - Pixel Shader
