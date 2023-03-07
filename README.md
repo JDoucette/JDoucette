@@ -23,6 +23,8 @@ ___
      - SuperChase I and II
      - Moneybags
      - Hobo Party
+  - C++
+     - Maim Chess engine  
   - Blog
      - [The First Pixel](http://thefirstpixel.com/)
   - Pixel Shader
