@@ -52,7 +52,7 @@ ___
 
 ### Mentality
 
-- “Be the hero in your own movie.” - [_Joe Rogan_](https://www.youtube.com/watch?v=CM_LWxh33Z8)
+- “Be the hero in your own movie.” - [_Joe Rogan_](https://youtube.com/results?search_query=be+the+hero+of+your+own+movie)
 - “Your future depends on many things, but mostly on you.” — [_Frank Tyger_](https://www.franktyger.info/frank-tyger-in-his-own-words.htm)
 - “The world of achievement has always belonged to the optimist.” — _J. Harold Wilkins_
 - “Your time is limited, so don't waste it living someone else's life.” — [_Steve Jobs_](https://www.youtube.com/results?search_query=steve+jobs+commencement+speech)
