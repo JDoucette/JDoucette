@@ -56,6 +56,7 @@ ___
 - “Your future depends on many things, but mostly on you.” — [_Frank Tyger_](https://www.franktyger.info/frank-tyger-in-his-own-words.htm)
 - “The world of achievement has always belonged to the optimist.” — _J. Harold Wilkins_
 - “Your time is limited, so don't waste it living someone else's life.” — [_Steve Jobs_](https://www.youtube.com/results?search_query=steve+jobs+commencement+speech)
+- “Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life. Because almost everything — all external expectations, all pride, all fear of embarrassment or failure — these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.” — [_Steve Jobs_](https://www.youtube.com/results?search_query=steve+jobs+commencement+speech)
 - “Life isn't about waiting for the storm clouds to pass, it's about learning to dance in the rain.” — _Unknown_
 - “Have a healthy disregard for the impossible.” — [_LeaderShape_](http://www.leadershape.org/institute)
 - “The greater the artist, the greater the doubt. Perfect confidence is granted to the less talented as a consolation prize.” — [_Robert Hughes_](http://content.time.com/time/subscriber/article/0,33009,984678,00.html)
